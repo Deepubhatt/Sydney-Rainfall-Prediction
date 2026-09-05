@@ -50,22 +50,6 @@ Logistic Regression, LDA, KNN, Decision Tree, Bagging, Random Forest, Gradient B
 - Time-based train/test split instead of random split, since this is sequential weather data
 - SHAP values for feature importance instead of default XGBoost importance
 
-## Repo structure
-
-```
-sydney-rainfall-prediction/
-├── README.md
-├── requirements.txt
-├── data/
-│   └── sydney_rain_prediction.xlsx
-├── notebooks/
-│   └── sydney_rain_prediction.ipynb
-└── images/
-    ├── correlation_heatmap.png
-    ├── model_comparison_basic.png
-    └── model_comparison_tuned.png
-```
-
 ## Run it locally
 
 ```bash
