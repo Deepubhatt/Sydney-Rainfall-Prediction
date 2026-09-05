@@ -36,6 +36,14 @@ Logistic Regression, LDA, KNN, Decision Tree, Bagging, Random Forest, Gradient B
 | AdaBoost | — | 84.88% |
 | KNN | 79.79% | 82.93% |
 
+![Decision tree visualization](images/decision_tree_visualization.png)
+
+![Feature importance - XGBoost](images/feature_importance_xgboost.png)
+
+![Accuracy comparison - basic models](images/accuracy_comparison_basic_models.png)
+
+![Accuracy comparison - tuned models](images/accuracy_comparison_tuned_models.png)
+
 *(Full per-model table, confusion matrices, and ROC-AUC scores are in the notebook.)*
 
 ## Result
